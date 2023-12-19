@@ -15,3 +15,5 @@ Required Resources
 
 * 1 PC (Choice of operating system with Wireshark installed)
 * Internet access
+
+Source: Cisco Networking Academy
